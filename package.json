@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "alexander-jones-portfolio",
+  "description": "Portfolio site for Alexander Jones",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Alexander Jones",
   "dependencies": {
     "gatsby": "^2.2.9",
     "gatsby-plugin-manifest": "^2.0.24",
