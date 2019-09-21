@@ -1006,6 +1006,20 @@
 		}
 	}
 
+/* Not Found */
+
+	#not-found-container {
+		display: flex;
+		height: 100vh;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	#not-found-text {
+		text-align: center;
+	}
+
 /* Poptrox */
 
 	@include keyframes('spin') {
